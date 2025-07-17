@@ -21,7 +21,7 @@ p {
 <body>
 
 <h1>My First CSS Example</h1>
-<p>This is a new code</p>
+<p>This is bug fix</p>
 
 </body>
 </html>
